@@ -2,3 +2,4 @@
 Nama: Sayyidul Luthfi
 kelas: 48-01
 NIM: 607062400074
+Tipe soal: G
